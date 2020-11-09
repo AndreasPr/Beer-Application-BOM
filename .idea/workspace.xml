@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="159" column="30" lean-forward="true" selection-start-line="159" selection-start-column="30" selection-end-line="159" selection-end-column="30" />
+            <state relative-caret-position="308">
+              <caret line="190" column="54" lean-forward="true" selection-start-line="190" selection-start-column="54" selection-end-line="190" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -125,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604959515207</updated>
-      <workItem from="1604959519490" duration="4318000" />
+      <workItem from="1604959519490" duration="5168000" />
     </task>
     <task id="LOCAL-00001" summary="Maven BOM Creation">
       <created>1604960397118</created>
@@ -155,11 +155,18 @@
       <option name="project" value="LOCAL" />
       <updated>1604963495555</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Maven BOM Common Build Plugins and closes #5">
+      <created>1604963938739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604963938739</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4318000" />
+    <option name="totallyTimeSpent" value="5168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -206,13 +213,14 @@
     <MESSAGE value="Maven BOM Setting Common Properties" />
     <MESSAGE value="Maven BOM Dependency Management and closes #3" />
     <MESSAGE value="Maven BOM Common Dependencies and closes #4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maven BOM Common Dependencies and closes #4" />
+    <MESSAGE value="Maven BOM Common Build Plugins and closes #5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maven BOM Common Build Plugins and closes #5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="159" column="30" lean-forward="true" selection-start-line="159" selection-start-column="30" selection-end-line="159" selection-end-column="30" />
+        <state relative-caret-position="308">
+          <caret line="190" column="54" lean-forward="true" selection-start-line="190" selection-start-column="54" selection-end-line="190" selection-end-column="54" />
         </state>
       </provider>
     </entry>
